@@ -2,6 +2,11 @@
   "name": "mail_debugger",
   "version": "1.0.0",
   "private": true,
+  "engines": {
+    "node": "v13.8.0",
+    "npm": "6.13.6",
+    "yarn": "please_use_npm_instead"
+  },
   "description": "mail debugger",
   "scripts": {
     "dev": "webpack-dev-server",
