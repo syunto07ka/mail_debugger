@@ -1,0 +1,31 @@
+{
+  "name": "mail_debugger",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": "13.8.0",
+    "npm": "6.13.6",
+    "yarn": "please_use_npm_instead"
+  },
+  "description": "mail debugger",
+  "scripts": {
+    "dev": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "syunto07ka",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/core": "^10.0.28",
+    "@emotion/styled": "^10.0.27",
+    "@types/react": "^16.9.35",
+    "@types/react-dom": "^16.9.8",
+    "html-webpack-plugin": "^4.3.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "ts-loader": "^7.0.5",
+    "typescript": "^3.9.5",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
